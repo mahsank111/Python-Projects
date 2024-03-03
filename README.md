@@ -9,6 +9,7 @@ By combining these powerful Python libraries, the Virtual Mouse project offers u
 
 
 ![images](https://github.com/mahsank111/Python-Projects/assets/97978224/ae064346-2051-419f-bd0e-656e86f67f1a)
+![AI-virtual-Mouse](https://github.com/mahsank111/Python-Projects/assets/97978224/a3a9a739-8627-4c38-a598-b30262c318cd)
 
 
 
